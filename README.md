@@ -1,6 +1,6 @@
-Common asked behavior questions for frontend interview questions?
+# Common asked behavior questions for frontend interview questions? #
 
-*Question Bank*
+### Question Bank ###
 1. Are you doing anything to set yourself apart from others?
 2. How do you cope with your work load in your present company?
 3. Your most proudest project? How were you involved? What makes you so proud? / Describe a project you're really proud of.
