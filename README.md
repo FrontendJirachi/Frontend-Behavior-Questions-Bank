@@ -1,11 +1,11 @@
-# Common asked behavior questions for frontend interview questions? #
+# Frontend interview behavior question bank #
 
 ### Question Bank ###
-1. Are you doing anything to set yourself apart from others?
-2. How do you cope with your work load in your present company?
-3. Your most proudest project? How were you involved? What makes you so proud? / Describe a project you're really proud of.
-4. I want to know about a time when you struggled to meet a deadline.
-5. Tell me about a time when you assisted a colleague in his work.What was the result?
+*. Are you doing anything to set yourself apart from others?
+*. How do you cope with your work load in your present company?
+*. Your most proudest project? How were you involved? What makes you so proud? / Describe a project you're really proud of.
+*. I want to know about a time when you struggled to meet a deadline.
+*. Tell me about a time when you assisted a colleague in his work.What was the result?
 6. Could you tell me about a time when a decision you made didn't work out? What did you learn from it?
 7. Give me one thing about you that isn't in your resume.
 8. What do you think would be your biggest challenge in the XXX Company Frontend Engineer role?
