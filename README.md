@@ -69,3 +69,6 @@ differently in the future?
 * Do you have an example of when you disagreed with another team member's approach?
 * Which metric would you use to measure success?
 * Describe a time you disagreed with a coworker but had to cooperate to get a project done
+
+### Evaluation Criteria ###
+...In progress...
